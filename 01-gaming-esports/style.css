@@ -117,27 +117,10 @@ h1 {
     justify-content: center;
 }
 
-.orbit {
-    position: absolute;
-    border: 1px solid #7560b8;
-    border-radius: 50%;
-    transform: rotate(-20deg);
-}
 
-.orbit-one {
-    width: 280px;
-    height: 210px;
-}
 
-.orbit-two {
-    width: 220px;
-    height: 280px;
-}
 
-.gamepad {
-    font-size: 105px;
-    filter: drop-shadow(0 15px 25px #000);
-}
+
 
 .floating-tag {
     position: absolute;
